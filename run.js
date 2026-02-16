@@ -1,1 +1,1 @@
-fetch("ntfy.sh/jonash_test", {method:"POST",body:"hepp"})
+fetch("https://ntfy.sh/jonash_test", {method:"POST",body:"hepp"})
